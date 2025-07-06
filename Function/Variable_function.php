@@ -17,5 +17,7 @@ echo $my() . "<br>"; // My is a function make is I variable Init in function
 testt() . "<br>"; // Only Function call
 echo $my; // Function Not work with out First Basec();
 
+echo var_
+
 
 ?>

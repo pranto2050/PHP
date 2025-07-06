@@ -9,4 +9,11 @@ for ($i = 1; $i <= 10; $i++){
     echo $namta . "*" . $i . "=". $namta * $i . "<br>"; 
 }
 
+
+echo "<br>";
+echo "<br>";
+echo "<br>";
+
+
+
 ?>
